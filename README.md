@@ -1,1 +1,2 @@
 # Matlab_code_used_probabilistic_system
+確率システムで使ったMatlabコードです。間違ってる箇所があれば教えてください。
